@@ -5,8 +5,8 @@ By invitation only.
 ## Overview
 
 1. fork this repo
-1. write code to complete the task, committing as you go. More smaller, granular commits are preferred over one big commit.
-1. when you're done, raise a pull request back into the upstream repo in elifesciences   
+1. write code to complete the task, committing as you go. Smaller, more granular commits are preferred over one large commit.
+1. when you're done, raise a pull request back into the upstream repo in `elifesciences`   
 
 ## Task description
 Please provide some code in javascript that makes a call to a service that returns:
